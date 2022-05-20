@@ -1,0 +1,7 @@
+MALIK RENCANA KONTEN
+- html dan css
+- bootstrap
+- javascript dan dom
+  - ES6
+  - javascrip framework
+- j-query
