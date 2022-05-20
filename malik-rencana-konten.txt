@@ -1,0 +1,5 @@
+MALIK RENCANA KONTEN
+- html dan css
+- bootstrap
+- javascript dan dom
+- j-query
