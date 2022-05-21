@@ -4,4 +4,7 @@ MALIK RENCANA KONTEN
 - javascript dan dom
   - ES6
   - javascrip framework
+    ^ Vue
 - j-query
+- php framework
+  ^ Laravel
